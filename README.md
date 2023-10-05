@@ -1,2 +1,1 @@
-# Hungry_Pal
- 
+Hungry_Pal
