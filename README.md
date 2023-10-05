@@ -1,3 +1,2 @@
-Hungry_Pal
-
-Hungry
+THE HUNGRYPAL - FOOD ORDERING APP
+"This repository encompasses the comprehensive codebas
