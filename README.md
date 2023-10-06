@@ -5,7 +5,7 @@ The Hungry Pal is a web application developed using React.js, Tailwind CSS, Redu
 
 For an optimal experience, please access the website in desktop view.
 
-Live Project : https://hungrypal.netlify.app/
+Live Project : https://hungry-pal.netlify.app/
 
 
 ## Technologies Used :
