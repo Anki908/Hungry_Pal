@@ -16,6 +16,7 @@ import store from "./comp/store";
 import Cart from "./comp/cart";
 
 const AppLayout = () => {
+  console.log('CORS Extension - To enhance your experience on Hungry Pal, please consider enabling a CORS extension in your browser. This will allow our live API from Swiggy to function seamlessly.')
   const [user , setUser] = useState({
     name: "Ank Saini",
     email: "ankitsainias121@gmail.com"
